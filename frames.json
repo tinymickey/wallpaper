@@ -10,20 +10,20 @@
 	{
 		"name": "ShotA",
 		"author": "Someone",
-		"url": "https://raw.githubusercontent.com/tinymickey/wallpaper/main/1.jpg",
+		"url": "https://raw.githubusercontent.com/tinymickey/wallpaper/main/2.jpg",
 		"collections": "featured,landscapes,people"
 	},
 	{
 		"name": "ShotB",
 		"author": "Someone",
-		"url": "https://raw.githubusercontent.com/tinymickey/wallpaper/main/1.jpg",
+		"url": "https://raw.githubusercontent.com/tinymickey/wallpaper/main/3.jpg",
 		"dimensions": "3200x2560",
 		"collections": "people,city",
 		"downloadable": false
 	},
 	{
 		"author": "Someone",
-		"url": "https://raw.githubusercontent.com/tinymickey/wallpaper/main/1.jpg",
+		"url": "https://raw.githubusercontent.com/tinymickey/wallpaper/main/4.jpg",
 		"name": "ShotC",
 		"dimensions": "1280x720",
 		"copyright": "Credits to its creator",
@@ -32,8 +32,8 @@
 	{
 		"name": "Wallsplash 1",
 		"author": "wallsplash",
-		"url": "https://raw.githubusercontent.com/tinymickey/wallpaper/main/1.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/tinymickey/wallpaper/main/1.jpg",
+		"url": "https://raw.githubusercontent.com/tinymickey/wallpaper/main/5.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/tinymickey/wallpaper/main/5.jpg",
 		"dimensions": "3200x2560",
 		"copyright": "Free (do whatever you want)",
 		"collections": "featured,landscapes,people,city",
@@ -42,16 +42,16 @@
 	{
 		"name": "Wallsplash 2",
 		"author": "wallsplash",
-		"url": "https://raw.githubusercontent.com/tinymickey/wallpaper/main/1.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/tinymickey/wallpaper/main/1.jpg",
+		"url": "https://raw.githubusercontent.com/tinymickey/wallpaper/main/6.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/tinymickey/wallpaper/main/6.jpg",
 		"dimensions": "3200x2560",
 		"copyright": "Free (do whatever you want)",
 		"collections": "featured,landscapes,people,food"
 	},
 	{
 		"name": "Wallsplash 3",
-		"url": "https://raw.githubusercontent.com/tinymickey/wallpaper/main/1.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/tinymickey/wallpaper/main/1.jpg",
+		"url": "https://raw.githubusercontent.com/tinymickey/wallpaper/main/7.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/tinymickey/wallpaper/main/7.jpg",
 		"dimensions": "3200x2560",
 		"copyright": "Free (do whatever you want)",
 		"collections": "featured,food,people"
@@ -59,16 +59,16 @@
 	{
 		"name": "Wallsplash 4",
 		"author": "wallsplash",
-		"url": "https://raw.githubusercontent.com/tinymickey/wallpaper/main/1.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/tinymickey/wallpaper/main/1.jpg",
+		"url": "https://raw.githubusercontent.com/tinymickey/wallpaper/main/8.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/tinymickey/wallpaper/main/8.jpg",
 		"dimensions": "3200x2560",
 		"copyright": "Free (do whatever you want)",
 		"collections": "landscapes,people,city"
 	},
 	{
 		"name": "Wallsplash 5",
-		"url": "https://raw.githubusercontent.com/tinymickey/wallpaper/main/1.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/tinymickey/wallpaper/main/1.jpg",
+		"url": "https://raw.githubusercontent.com/tinymickey/wallpaper/main/9.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/tinymickey/wallpaper/main/9.jpg",
 		"dimensions": "3200x2560",
 		"copyright": "Free (do whatever you want)",
 		"collections": "featured,landscapes"
@@ -76,8 +76,8 @@
 	{
 		"name": "Wallsplash 6",
 		"author": "wallsplash",
-		"url": "https://raw.githubusercontent.com/tinymickey/wallpaper/main/1.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/tinymickey/wallpaper/main/1.jpg",
+		"url": "https://raw.githubusercontent.com/tinymickey/wallpaper/main/10.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/tinymickey/wallpaper/main/10.jpg",
 		"dimensions": "3200x2560",
 		"copyright": "Free (do whatever you want)",
 		"collections": "featured,people"
@@ -85,8 +85,8 @@
 	{
 		"name": "Wallsplash 7",
 		"author": "wallsplash",
-		"url": "https://raw.githubusercontent.com/tinymickey/wallpaper/main/1.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/tinymickey/wallpaper/main/1.jpg",
+		"url": "https://raw.githubusercontent.com/tinymickey/wallpaper/main/11.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/tinymickey/wallpaper/main/11.jpg",
 		"dimensions": "3200x2560",
 		"copyright": "Free (do whatever you want)",
 		"collections": "landscapes,people"
@@ -94,8 +94,8 @@
 	{
 		"name": "Wallsplash 8",
 		"author": "wallsplash",
-		"url": "https://raw.githubusercontent.com/tinymickey/wallpaper/main/1.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/tinymickey/wallpaper/main/1.jpg",
+		"url": "https://raw.githubusercontent.com/tinymickey/wallpaper/main/12.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/tinymickey/wallpaper/main/12.jpg",
 		"dimensions": "3200x2560",
 		"copyright": "Free (do whatever you want)",
 		"collections": "food"
@@ -103,8 +103,8 @@
 	{
 		"name": "Webp Image",
 		"author": "unknown",
-		"url": "https://raw.githubusercontent.com/tinymickey/wallpaper/main/1.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/tinymickey/wallpaper/main/1.jpg",
+		"url": "https://raw.githubusercontent.com/tinymickey/wallpaper/main/13.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/tinymickey/wallpaper/main/13.jpg",
 		"dimensions": "3200x2560",
 		"copyright": "Unknown",
 		"collections": "landscapes"
@@ -112,8 +112,8 @@
 	{
 		"name": "Halloween 1",
 		"author": "wallsplash",
-		"url": "https://raw.githubusercontent.com/tinymickey/wallpaper/main/1.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/tinymickey/wallpaper/main/1.jpg",
+		"url": "https://raw.githubusercontent.com/tinymickey/wallpaper/main/14.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/tinymickey/wallpaper/main/14.jpg",
 		"dimensions": "3200x2560",
 		"copyright": "Free (do whatever you want)",
 		"collections": "halloween"
@@ -121,8 +121,8 @@
 	{
 		"name": "New Halloween",
 		"author": "wallsplash",
-		"url": "https://raw.githubusercontent.com/tinymickey/wallpaper/main/1.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/tinymickey/wallpaper/main/1.jpg",
+		"url": "https://raw.githubusercontent.com/tinymickey/wallpaper/main/15.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/tinymickey/wallpaper/main/15.jpg",
 		"dimensions": "3200x2560",
 		"copyright": "Free (do whatever you want)",
 		"collections": "halloween, new year"
@@ -130,8 +130,8 @@
 	{
 		"name": "New Year",
 		"author": "wallsplash",
-		"url": "https://raw.githubusercontent.com/tinymickey/wallpaper/main/1.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/tinymickey/wallpaper/main/1.jpg",
+		"url": "https://raw.githubusercontent.com/tinymickey/wallpaper/main/16.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/tinymickey/wallpaper/main/16.jpg",
 		"dimensions": "3200x2560",
 		"copyright": "Free (do whatever you want)",
 		"collections": "new year, new"
